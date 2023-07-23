@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ryrahul
-- 👀 I’m interested in life
-- 🌱 I’m currently learning life
-- 💞️ I’m looking to collaborate on life
+- 👀 I’m interested in backend
+- 🌱 I’m currently learning NestJS
+- 💞️ I’m looking to collaborate on backend projects
 - 📫 How to reach me 
 Whatsapp -+91 9035952717
 
