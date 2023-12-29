@@ -2,7 +2,7 @@
 Hi there! I'm Rahul, a backend developer passionate about building robust and efficient applications. I'm currently immersed in learning Apache Kafka
 
 ## Skills
-- Backend Development: I possess a strong foundation in backend development, with expertise in designing and implementing scalable and reliable systems.
+- Backend Development: I possess a strong foundation in backend development, with knowldege of designing and implementing scalable and reliable systems.
 - Programming Languages: I am proficient in JavaScript and TypeScript, enabling me to create dynamic and interactive web applications.
 - Technologies & Frameworks: My expertise extends to various technologies and frameworks, including Express.js, NestJS, MongoDB, Postgres, Prisma, Docker, and Socket.io. These tools empower me to build sophisticated and high-performing applications.
 
