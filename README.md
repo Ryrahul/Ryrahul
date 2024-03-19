@@ -24,6 +24,7 @@ Hi there! I'm Rahul, a backend developer passionate about building robust and ef
 ## Technologies
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ## Interests
 I am fascinated by the challenges and opportunities of backend development. I thrive on crafting efficient and elegant solutions that empower frontend developers and enhance the overall user experience.
