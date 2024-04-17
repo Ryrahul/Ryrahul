@@ -16,6 +16,10 @@ Hi there! I'm Rahul, a backend developer passionate about building robust and ef
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 [![Vendure](https://img.shields.io/badge/Vendure-%230067d6.svg?style=for-the-badge)](https://vendure.io/)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.io)
+<a href="https://github.com/your-repo"><img src="https://img.shields.io/badge/LangchainJs-🦜-green?style=for-the-badge" alt="LangchainJs" width="122" height="28"></a>
+
+
 
 
 ## DataBases && ORMs
