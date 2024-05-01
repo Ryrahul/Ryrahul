@@ -26,6 +26,7 @@ Hi there! I'm Rahul, a backend developer passionate about building robust and ef
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-1589F0?style=for-the-badge&logo=TypeORM&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 
 ## Technologies
@@ -33,6 +34,7 @@ Hi there! I'm Rahul, a backend developer passionate about building robust and ef
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-blue?style=for-the-badge&color=blue)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
 ## Interests
 I am fascinated by the challenges and opportunities of backend development. I thrive on crafting efficient and elegant solutions that empower frontend developers and enhance the overall user experience.
