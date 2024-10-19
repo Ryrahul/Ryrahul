@@ -11,6 +11,7 @@ Hi there! I'm Rahul, a backend developer passionate about building robust and ef
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## Frameworks
+![Vendure](https://img.shields.io/badge/Vendure-5A67D8?style=for-the-badge&logo=vendure&logoColor=white&logoWidth=20)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
